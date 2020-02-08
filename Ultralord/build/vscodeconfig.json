@@ -24,12 +24,12 @@
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\7efde753c0dd9aec36ed8ab2bd1e5fc2\\cameraserver-cpp-2020.1.2-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6da1ee272b6a74bff11c1c409cf00b58\\cscore-cpp-2020.1.2-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\eed3931469ba7efc2e953f8f3443a673\\opencv-cpp-3.4.7-2-headers\\",
-      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\e00789db368c2525cd804165f5eed572\\navx-cpp-3.1.400-headers\\",
+      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\9e23cfa7b1a757fe9ed3226bac01b3f3\\navx-cpp-3.1.409-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\632f433dc6caa702aa90ab08426b42e0\\SparkMax-cpp-1.5.1-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\a6fb3284b85c4addb16b3d6c7f4caf90\\SparkMax-driver-1.5.1-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\b6b3c70d6e6f440cb26a09042e35b2c9\\wpilibNewCommands-cpp-2020.1.2-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\c063bc61295dc3791e134b3c4f30c5cc\\wpilibOldCommands-cpp-2020.1.2-headers\\",
-      "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\include\\",
+      "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\include\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\759586253259c660302d160693400dda\\wpilibc-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\8e3782711e32b6990b439eebf6958cb7\\ntcore-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\bcf1af0d207011f8de9b55253af9ee05\\hal-cpp-2020.1.2-sources\\",
@@ -37,7 +37,7 @@
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\623cf65fabcd53a3f4611f815ab9386a\\cameraserver-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\0778a2eba9cedabec72881de45edc717\\cscore-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6440cf0dee8de0741badf5383075deb7\\opencv-cpp-3.4.7-2-sources\\",
-      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6c29be37d636c338020aa563c0d8491d\\navx-cpp-3.1.400-sources\\",
+      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\edf61e0c7cba2c0d5076865f5de47fdc\\navx-cpp-3.1.409-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\c9c6a5c6a1d2821c1ab2e63dfae9aa44\\wpilibNewCommands-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\f8b2910045039cbe9cbf5f2864947406\\wpilibOldCommands-cpp-2020.1.2-sources\\"
     ],
@@ -49,7 +49,7 @@
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\623cf65fabcd53a3f4611f815ab9386a\\cameraserver-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\0778a2eba9cedabec72881de45edc717\\cscore-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6440cf0dee8de0741badf5383075deb7\\opencv-cpp-3.4.7-2-sources\\",
-      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6c29be37d636c338020aa563c0d8491d\\navx-cpp-3.1.400-sources\\",
+      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\edf61e0c7cba2c0d5076865f5de47fdc\\navx-cpp-3.1.409-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\c9c6a5c6a1d2821c1ab2e63dfae9aa44\\wpilibNewCommands-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\f8b2910045039cbe9cbf5f2864947406\\wpilibOldCommands-cpp-2020.1.2-sources\\"
     ],
@@ -64,12 +64,12 @@
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\7efde753c0dd9aec36ed8ab2bd1e5fc2\\cameraserver-cpp-2020.1.2-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6da1ee272b6a74bff11c1c409cf00b58\\cscore-cpp-2020.1.2-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\eed3931469ba7efc2e953f8f3443a673\\opencv-cpp-3.4.7-2-headers\\",
-      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\e00789db368c2525cd804165f5eed572\\navx-cpp-3.1.400-headers\\",
+      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\9e23cfa7b1a757fe9ed3226bac01b3f3\\navx-cpp-3.1.409-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\632f433dc6caa702aa90ab08426b42e0\\SparkMax-cpp-1.5.1-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\a6fb3284b85c4addb16b3d6c7f4caf90\\SparkMax-driver-1.5.1-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\b6b3c70d6e6f440cb26a09042e35b2c9\\wpilibNewCommands-cpp-2020.1.2-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\c063bc61295dc3791e134b3c4f30c5cc\\wpilibOldCommands-cpp-2020.1.2-headers\\",
-      "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\include\\"
+      "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\include\\"
     ],
     "binaries": [
       {
@@ -78,7 +78,7 @@
           {
             "source": {
               "srcDirs": [
-                "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\cpp\\"
+                "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\cpp\\"
               ],
               "includes": [
                 "**/*.cpp",
@@ -88,7 +88,7 @@
             },
             "exportedHeaders": {
               "srcDirs": [
-                "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\include\\"
+                "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\include\\"
               ],
               "includes": [
                 "**/*.cpp",
@@ -126,12 +126,12 @@
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\7efde753c0dd9aec36ed8ab2bd1e5fc2\\cameraserver-cpp-2020.1.2-headers\\",
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6da1ee272b6a74bff11c1c409cf00b58\\cscore-cpp-2020.1.2-headers\\",
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\eed3931469ba7efc2e953f8f3443a673\\opencv-cpp-3.4.7-2-headers\\",
-          "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\e00789db368c2525cd804165f5eed572\\navx-cpp-3.1.400-headers\\",
+          "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\9e23cfa7b1a757fe9ed3226bac01b3f3\\navx-cpp-3.1.409-headers\\",
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\632f433dc6caa702aa90ab08426b42e0\\SparkMax-cpp-1.5.1-headers\\",
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\a6fb3284b85c4addb16b3d6c7f4caf90\\SparkMax-driver-1.5.1-headers\\",
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\b6b3c70d6e6f440cb26a09042e35b2c9\\wpilibNewCommands-cpp-2020.1.2-headers\\",
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\c063bc61295dc3791e134b3c4f30c5cc\\wpilibOldCommands-cpp-2020.1.2-headers\\",
-          "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\include\\"
+          "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\include\\"
         ],
         "sharedLibrary": false,
         "executable": true
@@ -141,7 +141,7 @@
       {
         "source": {
           "srcDirs": [
-            "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\cpp\\"
+            "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\cpp\\"
           ],
           "includes": [
             "**/*.cpp",
@@ -173,7 +173,7 @@
       {
         "source": {
           "srcDirs": [
-            "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\include\\"
+            "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\include\\"
           ],
           "includes": [
             "**/*.cpp",
@@ -232,12 +232,12 @@
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\7efde753c0dd9aec36ed8ab2bd1e5fc2\\cameraserver-cpp-2020.1.2-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6da1ee272b6a74bff11c1c409cf00b58\\cscore-cpp-2020.1.2-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\eed3931469ba7efc2e953f8f3443a673\\opencv-cpp-3.4.7-2-headers\\",
-      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\e00789db368c2525cd804165f5eed572\\navx-cpp-3.1.400-headers\\",
+      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\9e23cfa7b1a757fe9ed3226bac01b3f3\\navx-cpp-3.1.409-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\632f433dc6caa702aa90ab08426b42e0\\SparkMax-cpp-1.5.1-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\a6fb3284b85c4addb16b3d6c7f4caf90\\SparkMax-driver-1.5.1-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\b6b3c70d6e6f440cb26a09042e35b2c9\\wpilibNewCommands-cpp-2020.1.2-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\c063bc61295dc3791e134b3c4f30c5cc\\wpilibOldCommands-cpp-2020.1.2-headers\\",
-      "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\include\\",
+      "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\include\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\759586253259c660302d160693400dda\\wpilibc-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\8e3782711e32b6990b439eebf6958cb7\\ntcore-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\bcf1af0d207011f8de9b55253af9ee05\\hal-cpp-2020.1.2-sources\\",
@@ -245,7 +245,7 @@
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\623cf65fabcd53a3f4611f815ab9386a\\cameraserver-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\0778a2eba9cedabec72881de45edc717\\cscore-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6440cf0dee8de0741badf5383075deb7\\opencv-cpp-3.4.7-2-sources\\",
-      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6c29be37d636c338020aa563c0d8491d\\navx-cpp-3.1.400-sources\\",
+      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\edf61e0c7cba2c0d5076865f5de47fdc\\navx-cpp-3.1.409-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\c9c6a5c6a1d2821c1ab2e63dfae9aa44\\wpilibNewCommands-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\f8b2910045039cbe9cbf5f2864947406\\wpilibOldCommands-cpp-2020.1.2-sources\\"
     ],
@@ -257,7 +257,7 @@
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\623cf65fabcd53a3f4611f815ab9386a\\cameraserver-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\0778a2eba9cedabec72881de45edc717\\cscore-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6440cf0dee8de0741badf5383075deb7\\opencv-cpp-3.4.7-2-sources\\",
-      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6c29be37d636c338020aa563c0d8491d\\navx-cpp-3.1.400-sources\\",
+      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\edf61e0c7cba2c0d5076865f5de47fdc\\navx-cpp-3.1.409-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\c9c6a5c6a1d2821c1ab2e63dfae9aa44\\wpilibNewCommands-cpp-2020.1.2-sources\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\f8b2910045039cbe9cbf5f2864947406\\wpilibOldCommands-cpp-2020.1.2-sources\\"
     ],
@@ -272,12 +272,12 @@
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\7efde753c0dd9aec36ed8ab2bd1e5fc2\\cameraserver-cpp-2020.1.2-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6da1ee272b6a74bff11c1c409cf00b58\\cscore-cpp-2020.1.2-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\eed3931469ba7efc2e953f8f3443a673\\opencv-cpp-3.4.7-2-headers\\",
-      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\e00789db368c2525cd804165f5eed572\\navx-cpp-3.1.400-headers\\",
+      "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\9e23cfa7b1a757fe9ed3226bac01b3f3\\navx-cpp-3.1.409-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\632f433dc6caa702aa90ab08426b42e0\\SparkMax-cpp-1.5.1-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\a6fb3284b85c4addb16b3d6c7f4caf90\\SparkMax-driver-1.5.1-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\b6b3c70d6e6f440cb26a09042e35b2c9\\wpilibNewCommands-cpp-2020.1.2-headers\\",
       "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\c063bc61295dc3791e134b3c4f30c5cc\\wpilibOldCommands-cpp-2020.1.2-headers\\",
-      "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\include\\"
+      "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\include\\"
     ],
     "binaries": [
       {
@@ -286,7 +286,7 @@
           {
             "source": {
               "srcDirs": [
-                "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\cpp\\"
+                "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\cpp\\"
               ],
               "includes": [
                 "**/*.cpp",
@@ -296,7 +296,7 @@
             },
             "exportedHeaders": {
               "srcDirs": [
-                "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\include\\"
+                "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\include\\"
               ],
               "includes": [
                 "**/*.cpp",
@@ -334,12 +334,12 @@
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\7efde753c0dd9aec36ed8ab2bd1e5fc2\\cameraserver-cpp-2020.1.2-headers\\",
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\6da1ee272b6a74bff11c1c409cf00b58\\cscore-cpp-2020.1.2-headers\\",
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\eed3931469ba7efc2e953f8f3443a673\\opencv-cpp-3.4.7-2-headers\\",
-          "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\e00789db368c2525cd804165f5eed572\\navx-cpp-3.1.400-headers\\",
+          "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\9e23cfa7b1a757fe9ed3226bac01b3f3\\navx-cpp-3.1.409-headers\\",
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\632f433dc6caa702aa90ab08426b42e0\\SparkMax-cpp-1.5.1-headers\\",
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\a6fb3284b85c4addb16b3d6c7f4caf90\\SparkMax-driver-1.5.1-headers\\",
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\b6b3c70d6e6f440cb26a09042e35b2c9\\wpilibNewCommands-cpp-2020.1.2-headers\\",
           "C:\\Users\\rlind\\.gradle\\caches\\transforms-2\\files-2.1\\c063bc61295dc3791e134b3c4f30c5cc\\wpilibOldCommands-cpp-2020.1.2-headers\\",
-          "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\include\\"
+          "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\include\\"
         ],
         "sharedLibrary": false,
         "executable": true
@@ -349,7 +349,7 @@
       {
         "source": {
           "srcDirs": [
-            "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\cpp\\"
+            "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\cpp\\"
           ],
           "includes": [
             "**/*.cpp",
@@ -381,7 +381,7 @@
       {
         "source": {
           "srcDirs": [
-            "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\src\\main\\include\\"
+            "C:\\Users\\rlind\\Documents\\ProgramsFolder\\Ultralord\\Ultralord\\src\\main\\include\\"
           ],
           "includes": [
             "**/*.cpp",
