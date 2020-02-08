@@ -1,6 +1,7 @@
-#include <Ultra.h>
 #include <frc/WPILib.h>
 #include <frc/Ultrasonic.h>
+
+#include "Ultra.h"
 
 Ultra::Ultra()
 {

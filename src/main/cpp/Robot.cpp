@@ -1,12 +1,4 @@
 #include "Robot.h"
-#include <iostream>
-#include <frc/smartdashboard/SmartDashboard.h>
-#include <frc/shuffleboard/Shuffleboard.h> 
-#include <ahrs.h>
-#include <frc/WPILib.h>
-#include <SparkDrive.h>
-#include <Ultra.h>
-#include <frc/Ultrasonic.h>
 
 void Robot::RobotInit() 
 {

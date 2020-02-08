@@ -1,6 +1,7 @@
 #pragma once
 
 #include <rev/CANSparkMax.h>
+#include <AHRS.h>
 
 class SparkDrive
 {
