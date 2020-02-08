@@ -8,10 +8,12 @@ void Robot::RobotInit()
   frc::SmartDashboard::PutData("Auto Modes", &m_chooser);
 
   js1 = new frc::Joystick(0);
+
   lFront = new rev::CANSparkMax(10, rev::CANSparkMax::MotorType::kBrushless);
   rFront = new rev::CANSparkMax(1, rev::CANSparkMax::MotorType::kBrushless);
   lBack = new rev::CANSparkMax(2, rev::CANSparkMax::MotorType::kBrushless);
   rBack = new rev::CANSparkMax(3, rev::CANSparkMax::MotorType::kBrushless);
+
   sparkDrive = new SparkDrive(lFront, lBack, rFront, rBack);
   ultra = new Ultra();
   
@@ -31,7 +33,7 @@ void Robot::AutonomousPeriodic()
 {  
   if(m_autoSelected == AutoDefault)
   {
-    std::cout << "auto" << std::endl;
+
   }
   else if(m_autoSelected == Auto2)
   {
@@ -39,31 +41,31 @@ void Robot::AutonomousPeriodic()
   }
   else if(m_autoSelected == Auto3)
   {
-    std::cout << "auto" << std::endl;
+
   }
 }
 
 void Robot::TeleopInit() 
 {
-  turbodumb = false;
+  TurboButton = false;
   m_autoSelected = m_chooser.GetSelected();
 }
 
 void Robot::TeleopPeriodic() 
 {
   SmartDashboard::PutNumber("Ultra Distance",ultra->DistanceToWall());
-  if(js1->GetRawButton(3) && turbodumb == false && count > 10)
+  if(js1->GetRawButton(3) && TurboButton == false && count > 10)
   {
-    turbodumb = true;
+    TurboButton = true;
     count = 0;
   }
-  else if(js1->GetRawButton(3) && turbodumb == true && count > 10)
+  else if(js1->GetRawButton(3) && TurboButton == true && count > 10)
   {
-    turbodumb = false;
+    TurboButton = false;
     count = 0;
   }
   count++;
-sparkDrive->TankDrive(false, -(js1->GetRawAxis(1)), js1->GetRawAxis(2), turbodumb, false);
+sparkDrive->TankDrive(false, -(js1->GetRawAxis(1)), js1->GetRawAxis(2), TurboButton, false);
 }
 
 void Robot::TestPeriodic() 

@@ -28,7 +28,7 @@ class Robot : public frc::TimedRobot {
   SparkDrive *sparkDrive;
   Ultra *ultra;
 
-  bool turbodumb;
+  bool TurboButton;
   int count;
   
  private:
